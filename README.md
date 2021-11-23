@@ -7,7 +7,7 @@
 
 ## Desktop
 
-![Alt test](./images/github.PNG)
+![Alt test](./images/github.jpg)
 
 
 ## Table of Contents
